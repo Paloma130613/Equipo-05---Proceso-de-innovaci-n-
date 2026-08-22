@@ -31,7 +31,7 @@ Nuestro objetivo es integrar conocimientos de nuestras carreras involucradas par
 
 | Foto | Nombre | Rol | Intereses |
 | :---: | :--- | :--- | :--- |
-| 👤 | Pacheco Narvaez Paloma | Lider de equipo | Identificación de problemas, organización de tareas. |
+| <img src="https://imgbox.com" width="40" height="50"> | Pacheco Narvaez Paloma | Lider de equipo | Identificación de problemas, organización de tareas. |
 | 👤 | Juárez Pérez Nayeli Solansh | Responsable de investigación | Sostenibilidad, gestión ambiental. |
 | 👤 | Meza Yalle, Martín Diego | Diseñador | Innovación, creatividad, arte. |
 | 👤 | Cruz Gutierrez Jhon Albert | Encargado de documentación | Investigación, Comunicación. |
