@@ -15,6 +15,16 @@ Nuestro objetivo es integrar conocimientos de nuestras carreras involucradas par
 
 ### Nos interesa trabajar en los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/5c/e7/a4/5ce7a4351ccc0365e5faadf2fba5efab.jpg" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/736x/ed/cb/95/edcb952c8cd3b880ef9c5424cfc24ae9.jpg" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2018/07/S_SDG-goals_icons-individual-rgb-11.png" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://agenda2030lac.org/sites/default/files/2019-08/S_SDG%20goals_icons-individual-rgb-12_0.png" width="180">
+</p>
+
 * **ODS 6:** Agua Limpia y Saneamiento
 * **ODS 9:** Industria, Innovación e Infraestructura
 * **ODS 11:** Ciudades y Comunidades Sostenibles
