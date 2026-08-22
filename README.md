@@ -24,12 +24,6 @@ Nuestro objetivo es integrar conocimientos de nuestras carreras involucradas par
   &nbsp;&nbsp;&nbsp;
   <img src="https://agenda2030lac.org/sites/default/files/2019-08/S_SDG%20goals_icons-individual-rgb-12_0.png" width="180">
 </p>
-
-* **ODS 6:** Agua Limpia y Saneamiento
-* **ODS 9:** Industria, Innovación e Infraestructura
-* **ODS 11:** Ciudades y Comunidades Sostenibles
-* **ODS 12:** Producción y Consumo Responsables
-
 ---
 
 ## 👥 INTEGRANTES DEL EQUIPO
