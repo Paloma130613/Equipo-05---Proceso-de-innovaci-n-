@@ -33,7 +33,7 @@ Nuestro objetivo es integrar conocimientos de nuestras carreras involucradas par
 | :---: | :--- | :--- | :--- |
 | <img width="30" height="40" alt="Escáner_20240129 (2)" src="https://github.com/user-attachments/assets/95ddb15b-9ab4-43ea-9bfe-f9188449b853" /> | Pacheco Narvaez, Paloma Antonella | Lider de equipo | Identificación de problemas, organización de tareas. |
 | <img width="30" height="40" alt="IMG-20260821-WA0072" src="https://github.com/user-attachments/assets/545d061d-607a-479d-ad93-59295ced71a0" /> | Juárez Pérez, Nayeli Solansh | Responsable de investigación | Sostenibilidad, gestión ambiental. |
-| 👤 | Meza Yalle, Martín Diego | Diseñador | Innovación, creatividad, arte. |
+| <img width="30" height="40" alt="IMG_20251225_161259" src="https://github.com/user-attachments/assets/0b2cc1d2-b1ce-4b27-b301-8d01fcfd8be2" /> | Meza Yalle, Martín Diego | Diseñador | Innovación, creatividad, arte. |
 | 👤 | Cruz Gutierrez, Jhon Albert | Encargado de documentación | Investigación, Comunicación. |
 | <img src="https://i.pinimg.com/736x/68/d8/e7/68d8e7917e2dfa372fd09804e8b05aad.jpg" width="30" height="40"> | Quispe Balboa, Eddy Nillthon | Programador-Modelador | Programación, mantenimiento, simulación. |
 
