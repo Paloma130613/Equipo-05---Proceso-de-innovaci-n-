@@ -24,6 +24,7 @@ Nuestro objetivo es integrar conocimientos de nuestras carreras involucradas par
   &nbsp;&nbsp;&nbsp;
   <img src="https://agenda2030lac.org/sites/default/files/2019-08/S_SDG%20goals_icons-individual-rgb-12_0.png" width="180">
 </p>
+
 ---
 
 ## 👥 INTEGRANTES DEL EQUIPO
