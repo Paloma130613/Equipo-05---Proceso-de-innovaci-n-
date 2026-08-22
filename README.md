@@ -35,7 +35,7 @@ Nuestro objetivo es integrar conocimientos de nuestras carreras involucradas par
 | 👤 | Juárez Pérez Nayeli Solansh | Responsable de investigación | Sostenibilidad, gestión ambiental. |
 | 👤 | Meza Yalle, Martín Diego | Diseñador | Innovación, creatividad, arte. |
 | 👤 | Cruz Gutierrez Jhon Albert | Encargado de documentación | Investigación, Comunicación. |
-| 👤 | Quispe Balboa Eddy Nillthon | Programador-Modelador | Programación, mantenimiento, simulación. |
+| <img src="https://i.pinimg.com/736x/68/d8/e7/68d8e7917e2dfa372fd09804e8b05aad.jpg" width="30" height="40"> | Quispe Balboa Eddy Nillthon | Programador-Modelador | Programación, mantenimiento, simulación. |
 
 ---
 
